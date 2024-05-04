@@ -2,13 +2,16 @@
 layout: post
 title: "Create: Train Perspective v0.2.2"
 date: 2024-04-22 22:20 -7:00
-tags: updates create-train-perspective
-excerpt_separator: <!--more-->
-author: der frühling
+
+author: der_frühling
+id: 17fb00ec-4eb5-4eeb-af9b-1ed15cf9a598
+
+category: updates
+tags: create-train-perspective
 ---
 
 Major updates to how the mod works, plus: standing players, tall train fix, camera leaning & rolling!
-<!--more-->
+
 Download on Modrinth: [https://modrinth.com/mod/create-train-perspective](https://modrinth.com/mod/create-train-perspective)
 
 ### Changelog

@@ -5,3 +5,9 @@ plugins:
 
 title: DFüE
 description: der frühling's website for information
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
