@@ -5,3 +5,8 @@ plugins:
 
 title: DFüE
 description: der frühling's website for information
+
+feed:
+  tags:
+    except:
+      - not-post
