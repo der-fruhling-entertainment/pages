@@ -7,8 +7,6 @@ excerpt_separator: <!--more-->
 author: der frühling
 ---
 
-# Create: Train Perspective v0.2.2
-
 Major updates to how the mod works, plus: standing players, tall train fix, camera leaning & rolling!
 <!--more-->
 Download on Modrinth: [https://modrinth.com/mod/create-train-perspective](https://modrinth.com/mod/create-train-perspective)
