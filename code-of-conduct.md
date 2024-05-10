@@ -69,4 +69,4 @@ In this section, "contribution" refers to issues, pull requests, discussions, co
 
 This project welcomes and contributions of any form that comply with the above requirements.
 
-This project, by using this CoC, will enforce it to the extent that it's text requires.
+This project, from implementing this CoC, will enforce it to the extent that it's text requires.
