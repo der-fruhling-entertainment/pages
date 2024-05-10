@@ -33,11 +33,6 @@ Ways to submit feedback
 
 At the moment, the bot is not configurable. This may change later if the need arises.
 
-Thanks,  
-der_frühling
-
-![picture](/assets/img/der-fruhling.png)
-
 ### Bot Links
 
 Add the bot: [add-bot.hi3-glb.soulfire.derfruhling.net](http://add-bot.hi3-glb.soulfire.derfruhling.net)  
