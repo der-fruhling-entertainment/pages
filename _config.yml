@@ -3,8 +3,8 @@ plugins:
 - jekyll-remote-theme
 - jekyll-feed
 
-title: DFüE
-description: der frühling's website for information
+title: der frühling entertainment
+description: der frühling's website for information and project updates
 
 defaults:
   - scope:
