@@ -8,12 +8,13 @@ id: 17fb00ec-4eb5-4eeb-af9b-1ed15cf9a598
 
 category: updates
 tags: create-train-perspective
+excerpt_separator: <!--more-->
 ---
 
 Major updates to how the mod works, plus: standing players, tall train fix, camera leaning & rolling!
 
 Download on Modrinth: [https://modrinth.com/mod/create-train-perspective](https://modrinth.com/mod/create-train-perspective)
-
+<!--more-->
 ### Changelog
 - Player camera now leans while their train is on a slope. [View issue.](https://github.com/der-fruhling-entertainment/create-train-perspective/issues/11)
     - Also, camera now rolls when facing sideways on a slope.

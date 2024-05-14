@@ -8,12 +8,13 @@ id: d0260969-9c81-4584-ab5b-820f4d51b371
 
 category: updates
 tags: create-train-perspective
+excerpt_separator: <!--more-->
 ---
 
 A minor update to fix some perspective issues.
 
 Download on Modrinth: [https://modrinth.com/mod/create-train-perspective](https://modrinth.com/mod/create-train-perspective)
-
+<!--more-->
 ### Changelog
 - Fixed incorrect rolling when looking certain directions
 - Now compatible with [do a barrel roll](https://modrinth.com/mod/do-a-barrel-roll) and hopefully other camera roll kinds of mods.
