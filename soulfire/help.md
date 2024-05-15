@@ -16,6 +16,7 @@ When a member attempts to link Soulfire to their account, they will be redirecte
 
 **Note:** In order for the player information to show in members' profile, the linked role **must** be added to the permissions of the channel. No permission overrides need to be assigned, but it must be present in the list.
 
-The exact URL your members will be visiting looks like: `link.[game].soulfire.derfruhling.net`.
+The exact URL your members will be visiting looks like:<br>
+`link.[game].soulfire.derfruhling.net`
 
 This is the official method of linking Soulfire.
