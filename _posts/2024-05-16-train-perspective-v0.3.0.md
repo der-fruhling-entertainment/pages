@@ -15,6 +15,7 @@ Major update to fix major problems. The mod is in a pretty good state now.
 
 Most things just work nicely, and the perspective is significantly smoother than the previous versions.
 <!--more-->
+
 Changelog:
 - Players now look at their perceived down (e.g. the seat they're sitting in) rather than the real ground. [View issue.](https://github.com/der-fruhling-entertainment/create-train-perspective/issues/32)
 - Fixed jittery leaning. [View issue.](https://github.com/der-fruhling-entertainment/create-train-perspective/issues/22)
